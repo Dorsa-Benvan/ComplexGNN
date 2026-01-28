@@ -1,5 +1,5 @@
-@software{dualcomplexgnn,
-  title = {CcomplexGNN: Crystal Property Prediction with Graph Neural Networks},
+@software{complexgnn,
+  title = {ComplexGNN: Crystal Property Prediction with Graph Neural Networks},
   author = {Dorsa Benvan},
   year = {2026},
   url = {https://github.com/Dorsa-Benvan/Complexgnn}
