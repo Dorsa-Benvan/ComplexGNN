@@ -8,7 +8,7 @@ setup(
     version="1.0.0",
     author="Your Name",
     author_email="your.email@example.com",
-    description="A Graph Neural Network for crystal property prediction",
+    description="A Graph Neural Network for crystal bandgap prediction",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/yourusername/dualcomplexgnn",
@@ -48,7 +48,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "dualcomplexgnn=main:main",
+            "complexgnn=main:main",
         ],
     },
 )
