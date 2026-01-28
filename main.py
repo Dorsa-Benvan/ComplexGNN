@@ -1,5 +1,5 @@
 """
-Main entry point for the DualcomplexGNN project
+Main entry point for the ComplexGNN project
 """
 
 import os
